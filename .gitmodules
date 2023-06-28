@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ranger"]
 	path = ranger
 	url = https://github.com/imbs-hl/ranger
-	shallow = true
-	registered = true
 [submodule "survivalsvm"]
 	path = survivalsvm
 	url = https://github.com/imbs-hl/survivalsvm
-	shallow = true
-	registered = true
