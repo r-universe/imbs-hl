@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "fuseMLR"]
+	path = fuseMLR
+	url = https://github.com/imbs-hl/fusemlr
 [submodule "ranger"]
 	path = ranger
 	url = https://github.com/imbs-hl/ranger
